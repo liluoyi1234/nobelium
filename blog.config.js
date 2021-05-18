@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Law Review',
   author: 'Sean Lee',
   email: 'SeanLee_2021@163.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://seanlaw.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
